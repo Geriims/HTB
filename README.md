@@ -35,3 +35,6 @@ api-prod..../admin/init -> tambe hi ha la versio de l'strapi
 
 strapi.*[123]\.[0]\.\d
 
+Your email is: admin@horizontall.htb
+[+] Your new credentials are: admin:SuperStrongPassword1
+[+] Your authenticated JSON Web Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiaXNBZG1pbiI6dHJ1ZSwiaWF0IjoxNjQzOTEzMDQ2LCJleHAiOjE2NDY1MDUwNDZ9.IaeuvUzBwcBf6wdCu_icF4Dr2ydI0NrnlN0tqp8qk8w
